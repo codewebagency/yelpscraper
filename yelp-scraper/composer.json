@@ -1,0 +1,21 @@
+{
+    "name": "hosseinbahrami/yelp-scraper",
+    "description": "Yelp data scraper via crawling its categories related to specific city( location )",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Hossein Bahrami Nekoo",
+            "email": "ho.bahram@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "YelpScraper": "src/"
+        }
+    }
+}
