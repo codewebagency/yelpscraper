@@ -1,5 +1,5 @@
 {
-    "name": "codewebagency/yelp-scraper",
+    "name": "codewebagency/yelpscraper",
     "description": "Yelp data scraper via crawling its categories related to specific city( location )",
     "type": "library",
     "license": "GPL",
