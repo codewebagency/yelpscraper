@@ -1,8 +1,10 @@
 {
-    "name": "hosseinbahrami/yelp-scraper",
-    "description": "Yelp data scraper via crawling its categories related to specific city( location )",
-    "type": "library",
-    "license": "GPL",
+    "type": "package",
+    "package": {
+        "name": "hosseinbahrami/yelp-scraper",
+        "description": "Yelp data scraper via crawling its categories related to specific city( location )",
+        "license": "GPL"
+    },
     "authors": [
         {
             "name": "Hossein Bahrami Nekoo",
